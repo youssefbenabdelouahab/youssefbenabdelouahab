@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Youssef (aka fullStuck)
+# 👋 Hey there, I'm Youssef Software Engineer  
 
 🚀 Passionate developer on a journey to **level up every single day**  
 💡 Focused on building real-world projects & mastering modern technologies  
@@ -30,18 +30,6 @@
 - Scalable Systems  
 
 ✨ Goal: Become a **high-level Software Engineer**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150" />
-
-</div>
 
 ---
 
